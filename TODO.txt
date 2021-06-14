@@ -10,4 +10,4 @@ training algorightm
 #load all data and models //model and its used data are mapped
 #train meta_model with model and unsed data
 
-grouped_data_models(k_folds,3?) * num_kind_of_models(TTA,4?)
+grouped_data_models(k_folds,3?) * num_kind_of_models(TTA?diffrent models?,4?)
