@@ -2,3 +2,12 @@ customize for RDD
 Extend train code for ensemble
 
 Checking classification for containg crack or not
+
+training algorightm
+
+#for i in range(num_k_folds):
+  normal train with grouped data
+#load all data and models //model and its used data are mapped
+#train meta_model with model and unsed data
+
+grouped_data_models(k_folds,3?) * num_kind_of_models(TTA,4?)
